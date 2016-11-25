@@ -1,7 +1,8 @@
 # Site
-title: Halve
-description: Stylish, Two-Column Jekyll Theme
-url: http://taylantatli.github.io/Halve
+title: Eric Gonzalez
+description: Geek
+url: http://127.0.0.1:4000
+url: https://ericegonzalez.github.io
 logo: halve.png                                       # Site logo
 locale: en_US
 
@@ -29,15 +30,15 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             email
+email:             egonz035@ucr.edu
 #google.plus:        username
-twitter:            username
-#facebook:           username
-github:             username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+#twitter:            username
+facebook:           ericegonz
+github:             ericegonzalez
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+linkedin:          ericegonz
 #xing:              username
-#instagram:          username
+instagram:          ericegonz
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
@@ -52,7 +53,7 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:
